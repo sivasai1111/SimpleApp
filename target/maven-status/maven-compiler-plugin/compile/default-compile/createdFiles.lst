@@ -1,0 +1,4 @@
+com\myproject\application\Application.class
+com\myproject\Simple\App.class
+com\myproject\application\JerseyConfig.class
+com\myproject\application\WebApplicationContext.class
